@@ -1,4 +1,4 @@
-# Readme for Flatmates Bill Splitter
+Flatmates Bill Splitter
 
 This simple Flask application helps you split bills among flatmates based on the number of days each person spent in the house. The application provides a web interface for users to input bill details and calculate how much each flatmate owes.
 
