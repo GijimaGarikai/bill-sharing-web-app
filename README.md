@@ -56,13 +56,5 @@ Replace `<filename>` with the name of the Python file containing your applicatio
 
 - Access the results page at `/results`.
 - Displays the calculated amounts each flatmate owes based on the provided information.
-
-## Application Structure
-
-- `app.py`: The main Python file containing the Flask application.
-- `templates/`: Folder containing HTML templates for rendering different pages.
-  - `index.html`: Home page template.
-  - `bill_form_page.html`: Bill form page template.
-  - `results.html`: Results page template.
-- `flat_classes.py`: Module containing classes for representing flatmates and bills.
+ representing flatmates and bills.
 
